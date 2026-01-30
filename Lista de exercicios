@@ -1,0 +1,84 @@
+🔹Random
+
+	1. Sorteio com repetição
+	Crie um programa que sorteie 5 números inteiros entre 1 e 50, podendo repetir valores. Ao final, mostre a lista sorteada.
+
+	2. Sorteio sem repetição
+	Usando a mesma faixa de números (1 a 50), sorteie 5 números diferentes, sem repetir.
+
+	3. Jogo do dado 🎲
+	Simule o lançamento de um dado 10 vezes.
+	Armazene os resultados em uma lista e informe:
+
+		quantas vezes saiu o número 6
+
+		qual foi o maior valor sorteado
+
+	4. Escolha aleatória com nomes
+	Crie uma lista com pelo menos 6 nomes.
+	Sorteie 2 nomes diferentes para formar uma dupla.
+
+🔹Math
+
+	5. Cálculo de hipotenusa
+	Peça ao usuário os valores dos catetos de um triângulo retângulo e calcule a hipotenusa.
+
+		Dica: use sqrt() e pow() da biblioteca math.
+
+	6. Arredondamentos
+	Peça um número decimal ao usuário e mostre:
+
+		o valor arredondado para cima
+
+		o valor arredondado para baixo
+
+		o valor arredondado normalmente
+
+		Dica: use ceil(), floor() e round().
+
+	7. Distância entre dois pontos
+	Peça ao usuário as coordenadas de dois pontos no plano cartesiano (x1, y1) e (x2, y2) e calcule a distância entre eles.
+
+🔹NumPy
+
+	8. Lista para array
+	Crie uma lista com 10 números inteiros digitados pelo usuário e transforme essa lista em um array NumPy.
+	Depois, mostre:
+
+	a média
+
+	o maior valor
+
+	o menor valor
+
+	9. Operações com arrays
+	Crie dois arrays NumPy com 5 números cada.
+	Faça:
+
+	soma entre eles
+
+	subtração
+
+	multiplicação
+
+	10. Filtro de números
+	Dado um array NumPy com vários números inteiros, crie um novo array apenas com os números pares.
+
+🔹 Matplotlib (visualização simples)
+
+	11. Gráfico de linha
+
+	Crie uma lista com valores de vendas de uma loja ao longo de 7 dias.
+	Gere um gráfico de linha mostrando a evolução das vendas.
+
+	12. Gráfico de barras
+	Crie duas listas:
+
+	nomes de produtos
+
+	quantidade vendida
+
+	Gere um gráfico de barras comparando as vendas.
+
+	13. Gráfico de números aleatórios
+	Gere 20 números aleatórios entre 1 e 100 e crie um gráfico de linha exibindo esses valores.
