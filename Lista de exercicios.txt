@@ -36,12 +36,10 @@
 
 		Dica: use ceil(), floor() e round().
 
-	7. Distância entre dois pontos
-	Peça ao usuário as coordenadas de dois pontos no plano cartesiano (x1, y1) e (x2, y2) e calcule a distância entre eles.
 
 🔹NumPy
 
-	8. Lista para array
+	7. Lista para array
 	Crie uma lista com 10 números inteiros digitados pelo usuário e transforme essa lista em um array NumPy.
 	Depois, mostre:
 
@@ -51,7 +49,7 @@
 
 	o menor valor
 
-	9. Operações com arrays
+	8. Operações com arrays
 	Crie dois arrays NumPy com 5 números cada.
 	Faça:
 
@@ -61,17 +59,17 @@
 
 	multiplicação
 
-	10. Filtro de números
+	9. Filtro de números
 	Dado um array NumPy com vários números inteiros, crie um novo array apenas com os números pares.
 
 🔹 Matplotlib (visualização simples)
 
-	11. Gráfico de linha
+	10. Gráfico de linha
 
 	Crie uma lista com valores de vendas de uma loja ao longo de 7 dias.
 	Gere um gráfico de linha mostrando a evolução das vendas.
 
-	12. Gráfico de barras
+	11. Gráfico de barras
 	Crie duas listas:
 
 	nomes de produtos
@@ -80,5 +78,5 @@
 
 	Gere um gráfico de barras comparando as vendas.
 
-	13. Gráfico de números aleatórios
+	12. Gráfico de números aleatórios
 	Gere 20 números aleatórios entre 1 e 100 e crie um gráfico de linha exibindo esses valores.
